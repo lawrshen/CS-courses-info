@@ -1,0 +1,13 @@
+SH(1)                          BSD General Commands Manual                          SH(1)
+
+NAME
+     sh command interpreter (shell)
+
+SYNOPSIS
+     sh xxx.sh
+
+DESCRIPTION
+     sh is the standard command interpreter for the system. 
+
+AUTHOR
+       Copy from linux....

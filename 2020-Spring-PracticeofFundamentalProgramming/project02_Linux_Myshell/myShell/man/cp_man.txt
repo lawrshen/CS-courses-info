@@ -1,0 +1,18 @@
+CP(1)                              User Commands                              CP(1)
+
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp [OPTION]... [-T] SOURCE DEST
+       cp [OPTION]... SOURCE... DIRECTORY
+
+DESCRIPTION
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       -r
+              copy directories recursively
+
+AUTHOR
+       Copy from linux....
+

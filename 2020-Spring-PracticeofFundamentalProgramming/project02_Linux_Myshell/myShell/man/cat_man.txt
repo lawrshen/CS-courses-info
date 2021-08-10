@@ -1,0 +1,15 @@
+CAT(1)                             User Commands                             CAT(1)
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat [OPTION]... [FILE]...
+
+DESCRIPTION
+       Concatenate FILE(s) to standard output.
+
+       With no FILE, or when FILE is -, read standard input.
+
+AUTHOR
+       Copy from linux....

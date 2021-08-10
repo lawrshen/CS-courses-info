@@ -1,0 +1,13 @@
+CMP(1)                             User Commands                             CMP(1)
+
+NAME
+       cmp - compare two files byte by byte
+
+SYNOPSIS
+       cmp [OPTION]... FILE1 [FILE2 [SKIP1 [SKIP2]]]
+
+DESCRIPTION
+       Compare two files byte by byte.
+
+AUTHOR
+       Copy from linux....

@@ -1,0 +1,3 @@
+[submodule "2021-Spring-AdvancedProgramming/PlantVsZombie"]
+	path = 2021-Spring-AdvancedProgramming/PlantVsZombie
+	url = git@github.com:lawrshen/PlantVsZombie-Qt.git

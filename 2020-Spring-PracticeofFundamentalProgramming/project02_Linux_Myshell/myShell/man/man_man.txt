@@ -1,0 +1,13 @@
+MAN(1)                            User Commands                          MAN(1)
+
+NAME
+       man - online manual
+
+SYNOPSIS
+       man  [-C  file] 
+
+DESCRIPTION
+       display operation guide
+
+AUTHOR
+       Copy from linux....
