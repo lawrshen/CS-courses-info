@@ -1,3 +1,7 @@
 [submodule "2021-Spring-AdvancedProgramming/PlantVsZombie"]
 	path = 2021-Spring-AdvancedProgramming/PlantVsZombie
 	url = git@github.com:lawrshen/PlantVsZombie-Qt.git
+
+[submodule "2021-Fall-PrincipleOfCompile"]
+	path = 2021-Fall-PrincipleOfCompile
+	url = git@github.com:lawrshen/c-minus-compiler.git
